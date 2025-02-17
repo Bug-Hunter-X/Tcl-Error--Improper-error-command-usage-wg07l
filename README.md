@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Tcl programming related to the use of the `error` command. The `bug.tcl` file shows the erroneous code, while `bugSolution.tcl` provides the corrected version.
